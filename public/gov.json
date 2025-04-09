@@ -1,0 +1,185 @@
+{
+  "Federal": {
+    "Executive Branch": {
+      "President": [],
+      "Vice President": [],
+      "Cabinet Departments": [
+        "Department of State",
+        "Department of the Treasury",
+        "Department of Defense",
+        "Department of Justice",
+        "Department of the Interior",
+        "Department of Agriculture",
+        "Department of Commerce",
+        "Department of Labor",
+        "Department of Health and Human Services",
+        "Department of Housing and Urban Development",
+        "Department of Transportation",
+        "Department of Energy",
+        "Department of Education",
+        "Department of Veterans Affairs",
+        "Department of Homeland Security"
+      ],
+      "Independent Agencies": [
+        "CIA",
+        "EPA",
+        "FCC",
+        "FEC",
+        "Federal Reserve",
+        "SEC"
+      ]
+    },
+    "Legislative Branch": {
+      "Congress": {
+        "Senate": [],
+        "House of Representatives": []
+      }
+    },
+    "Judicial Branch": {
+      "Supreme Court": [],
+      "Appellate Courts": [],
+      "District Courts": [],
+      "Special Courts": [
+        "Tax Court",
+        "Bankruptcy Court",
+        "Military Courts"
+      ]
+    },
+    "Federal Laws": [
+      "U.S. Constitution",
+      "Federal Statutes",
+      "Administrative Law",
+      "Case Law"
+    ],
+    "National Services": [
+      "Social Security",
+      "Medicare/Medicaid",
+      "Veterans Services",
+      "Immigration Services (USCIS)",
+      "Federal Law Enforcement (FBI, DEA, ATF)"
+    ]
+  },
+  "United States": {
+    "States": {
+      "California": {
+        "State Laws": [
+          "California Constitution",
+          "California Penal Code",
+          "California Civil Code",
+          "California Health and Safety Code",
+          "California Family Code",
+          "California Vehicle Code"
+        ],
+        "Counties": {
+          "Los Angeles County": {
+            "County Ordinances": [
+              "Zoning",
+              "Noise Regulations",
+              "Public Safety Codes"
+            ],
+            "Services": [
+              "Sheriff's Department",
+              "County Health Department",
+              "Public Works"
+            ]
+          },
+          "San Francisco County": {
+            "County Ordinances": [
+              "Housing Laws",
+              "Business Permits",
+              "Transportation Regulations"
+            ],
+            "Services": [
+              "County Public Health",
+              "City and County Police",
+              "Emergency Services"
+            ]
+          }
+        },
+        "Cities": {
+          "Los Angeles": {
+            "City Ordinances": [
+              "Rent Control",
+              "Curfew Laws",
+              "Street Use Permits"
+            ],
+            "Services": [
+              "LAPD",
+              "LAFD",
+              "Public Transportation"
+            ]
+          },
+          "San Francisco": {
+            "City Ordinances": [
+              "Homelessness Policies",
+              "Tourism Taxes",
+              "Sustainability Mandates"
+            ],
+            "Services": [
+              "SFPD",
+              "SFFD",
+              "MUNI"
+            ]
+          }
+        }
+      },
+      "New York": {
+        "State Laws": [
+          "New York Constitution",
+          "New York Penal Law",
+          "New York Civil Practice Law and Rules",
+          "New York Environmental Conservation Law",
+          "New York Education Law"
+        ],
+        "Counties": {
+          "New York County (Manhattan)": {
+            "County Ordinances": [
+              "Business Zoning",
+              "Nightlife Regulations"
+            ],
+            "Services": [
+              "NYPD Manhattan South",
+              "Department of Sanitation",
+              "Public Health Services"
+            ]
+          },
+          "Kings County (Brooklyn)": {
+            "County Ordinances": [
+              "Building Safety",
+              "Waste Management"
+            ],
+            "Services": [
+              "NYPD Brooklyn North",
+              "Brooklyn Borough Hall Services"
+            ]
+          }
+        },
+        "Cities": {
+          "New York City": {
+            "City Ordinances": [
+              "Subway Regulations",
+              "Public Parks Use",
+              "NYC Smoking Ban"
+            ],
+            "Services": [
+              "NYPD",
+              "FDNY",
+              "NYC Transit"
+            ]
+          },
+          "Buffalo": {
+            "City Ordinances": [
+              "Snow Removal Laws",
+              "Historic Preservation Codes"
+            ],
+            "Services": [
+              "Buffalo Police Department",
+              "Buffalo Fire Department",
+              "City Housing Authority"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

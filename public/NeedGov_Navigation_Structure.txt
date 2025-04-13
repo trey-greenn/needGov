@@ -1,0 +1,83 @@
+
+Top-Level Navigation Structure for NeedGov.com
+
+1. U.S. Constitution
+    - Overview
+    - Bill of Rights (Amendments 1–10)
+    - Additional Amendments (11–27)
+    - Separation of Powers
+    - Checks and Balances
+
+2. Federal Statutory Law
+    - What is Statutory Law?
+    - U.S. Code (by Title)
+    - Civil Rights Laws
+    - Health & Safety Laws
+    - Immigration Laws
+    - Tax Laws
+
+3. Federal Administrative Law
+    - What are Federal Agencies?
+    - Code of Federal Regulations (CFR)
+    - IRS – Tax Code
+    - EPA – Environmental Rules
+    - FDA – Drug & Food Regulation
+    - Social Security & Medicare
+    - SEC – Financial Rules
+
+4. Federal Case Law
+    - What is Case Law?
+    - Supreme Court Decisions
+    - Federal Court of Appeals
+    - Key Precedents (e.g., Roe v. Wade, Brown v. Board)
+    - How to Read a Case
+
+5. State Law
+    5A. State Constitutions
+        - Overview by State
+        - Rights Given by States
+    5B. State Statutory Law
+        - Overview by State
+        - Penal Codes / Family Codes
+        - Example State Laws
+    5C. State Administrative Law
+        - DMV Rules
+        - State Health Departments
+        - Labor and Employment Regulations
+    5D. State Case Law
+        - State Supreme Courts
+        - Major State Rulings
+
+6. Local Law
+    - What are Ordinances?
+    - City and County Governments
+    - Common Local Laws
+    - Public Safety & Zoning Rules
+
+7. Military Law
+    - UCMJ Overview
+    - Military Court System
+    - Rights of Service Members
+
+8. Tribal Law
+    - Tribal Sovereignty
+    - Examples of Tribal Legal Systems
+    - Interplay with Federal/State Law
+
+9. Treaties & International Law
+    - Role of Treaties in U.S. Law
+    - How Treaties Are Made
+    - Examples: Geneva Conventions, NAFTA, etc.
+
+Bonus Sections (Optional Navigation Tabs)
+
+Learn the Law
+    - Legal Basics
+    - How a Bill Becomes Law
+    - How Courts Work
+    - How to Read Legal Texts
+
+Legal Resources
+    - Find a Lawyer
+    - Government Websites (IRS, SSA, etc.)
+    - Downloadable PDFs & Forms

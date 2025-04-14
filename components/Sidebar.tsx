@@ -77,6 +77,17 @@ export default function Sidebar() {
       ]
     },
     { 
+      name: '🔫 Gun Laws', 
+      href: '/gun-laws',
+      subItems: [
+        { name: 'Overview', href: '/gun-laws' },
+        { name: 'Browse by State', href: '/gun-laws/states' },
+        { name: 'Browse by Law Type', href: '/gun-laws/types' },
+        { name: 'Local Gun Laws', href: '/gun-laws/local' },
+        { name: 'Resources & Tools', href: '/gun-laws/resources' },
+      ]
+    },
+    { 
       name: '🎖️ Military Law', 
       href: '/military-law',
       subItems: [

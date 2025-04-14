@@ -1,0 +1,59 @@
+
+Gun Laws Section — Website Navigation Structure (U.S. Only)
+
+1. Overview Page (Landing Section)
+- Explanation of U.S. gun laws structure: Federal vs. State vs. Local
+- Overview of types of laws (ownership, carry, background checks, etc.)
+- Interactive U.S. map for selecting state
+
+2. Browse by State
+Each state page includes:
+- Summary of state gun laws
+- Permit requirements (concealed/open carry)
+- Registration requirements
+- Background check rules
+- Assault weapon laws
+- Magazine capacity restrictions
+- Safe storage laws
+- Red flag laws
+- Links to:
+  - Major cities or counties with additional laws
+  - State-specific firearm forms or applications
+
+Example:
+Gun Laws in Texas
+- Open Carry: Allowed with permit
+- Concealed Carry: Allowed with permit
+- Background Check: Required through FFL
+- Preemption Law: State law overrides local
+
+3. Browse by Law Type
+Browse laws across all states by category:
+- Concealed Carry Laws by State
+- Open Carry Laws by State
+- Assault Weapons Bans
+- Magazine Capacity Limits
+- Gun Registration Rules
+- Red Flag Law Coverage Map
+
+4. Local Laws (Advanced)
+Major cities with unique or additional laws:
+- NYC, Chicago, Los Angeles, San Francisco, etc.
+Each city page can include:
+- Local ordinance summary
+- Transport rules within city limits
+- Local firearm registration/permits
+- Special restrictions
+
+5. Resources & Tools
+- Gun Law Comparison Tool (state-by-state)
+- Interactive Law Coverage Map
+- Feed of Recent Law Changes
+- Links to ATF and State Agencies
+
+SEO-Friendly Page Examples:
+- "Gun laws in [State]"
+- "Concealed carry permit in [State/City]"
+- "Gun registration rules in [State]"
+- "Can I carry a gun in [City, State]?"
+- "Red flag laws in [State]"

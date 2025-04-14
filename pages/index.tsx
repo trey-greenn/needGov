@@ -28,6 +28,12 @@ export default function Home() {
       href: '/military-law',
       description: 'Military, tribal, and international law affecting the United States'
     },
+    { 
+      name: 'Gun Laws', 
+      icon: '🔫', 
+      href: '/gun-laws',
+      description: 'Comprehensive guide to federal, state, and local firearm regulations and requirements'
+    }
   ]
   
   const quickLinks = [
@@ -222,6 +228,94 @@ export default function Home() {
               Advanced Search
             </Link>
           </section>
+          <section className="mb-12 bg-white p-8 rounded-lg shadow-md">
+  <div className="flex items-center justify-between mb-6">
+    <h2 className="text-2xl font-semibold text-blue-900">
+      Gun Laws & Regulations
+    </h2>
+    <Link 
+      href="/gun-laws" 
+      className="text-blue-600 hover:text-blue-800 font-medium"
+    >
+      View All Gun Laws →
+    </Link>
+  </div>
+  
+  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div className="space-y-4">
+      <h3 className="font-semibold text-lg text-blue-800">Quick Access</h3>
+      <div className="space-y-2">
+        <Link 
+          href="/gun-laws/states" 
+          className="flex items-center text-slate-600 hover:text-blue-600"
+        >
+          <span className="mr-2">🗺️</span> Browse Laws by State
+        </Link>
+        <Link 
+          href="/gun-laws/types" 
+          className="flex items-center text-slate-600 hover:text-blue-600"
+        >
+          <span className="mr-2">📋</span> Browse by Law Type
+        </Link>
+        <Link 
+          href="/gun-laws/local" 
+          className="flex items-center text-slate-600 hover:text-blue-600"
+        >
+          <span className="mr-2">🏙️</span> Local Gun Laws
+        </Link>
+      </div>
+    </div>
+
+    <div className="space-y-4">
+      <h3 className="font-semibold text-lg text-blue-800">Common Topics</h3>
+      <div className="space-y-2">
+        <Link 
+          href="/gun-laws/types/concealed-carry" 
+          className="block text-slate-600 hover:text-blue-600"
+        >
+          Concealed Carry Permits
+        </Link>
+        <Link 
+          href="/gun-laws/types/registration" 
+          className="block text-slate-600 hover:text-blue-600"
+        >
+          Registration Requirements
+        </Link>
+        <Link 
+          href="/gun-laws/types/background-checks" 
+          className="block text-slate-600 hover:text-blue-600"
+        >
+          Background Check Rules
+        </Link>
+      </div>
+    </div>
+
+    <div className="space-y-4">
+      <h3 className="font-semibold text-lg text-blue-800">Tools & Resources</h3>
+      <div className="space-y-2">
+        <Link 
+          href="/gun-laws/resources" 
+          className="block text-slate-600 hover:text-blue-600"
+        >
+          State Law Comparison Tool
+        </Link>
+        <Link 
+          href="/gun-laws/resources#recent-changes" 
+          className="block text-slate-600 hover:text-blue-600"
+        >
+          Recent Law Changes
+        </Link>
+        <Link 
+          href="/gun-laws/resources#forms" 
+          className="block text-slate-600 hover:text-blue-600"
+        >
+          Forms & Applications
+        </Link>
+      </div>
+    </div>
+  </div>
+</section>
+
           
           <section className="mb-12">
             <h2 className="text-2xl font-semibold text-blue-900 mb-6 text-center">

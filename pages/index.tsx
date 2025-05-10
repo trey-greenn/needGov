@@ -33,6 +33,12 @@ export default function Home() {
       icon: '🔫', 
       href: '/gun-laws',
       description: 'Comprehensive guide to federal, state, and local firearm regulations and requirements'
+    },
+    { 
+      name: 'Case Laws', 
+      icon: '🔫', 
+      href: '/case-laws',
+      description: 'Comprehensive guide to federal, state, and local firearm regulations and requirements'
     }
   ]
   
@@ -331,6 +337,7 @@ export default function Home() {
                 { name: 'Property Rights', href: '/state-law/statutory/property' },
                 { name: 'Consumer Protection', href: '/federal-administrative/ftc' },
                 { name: 'Civil Rights', href: '/federal-statutory/civil-rights' },
+                { name: 'Pulled Over/Detained', href: '/federal-statutory/civil-rights' },
               ].map((topic, index) => (
                 <Link
                   key={index}
